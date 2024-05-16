@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.acheron.UtilityTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-05-13T18:50:09" hostname="acheron" time="0.128">
+  <properties/>
+  <testcase name="multithreadingIntegerTest()" classname="com.acheron.UtilityTest" time="0.011"/>
+  <testcase name="defaultIntegerTest()" classname="com.acheron.UtilityTest" time="0.116"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
